@@ -1,9 +1,9 @@
-# inheritance-template
+# polymorphism-example
+
 Gitpod URL prefix: https://gitpod.io/#
 
-Step 1. Add 2 instance variables along with their getter and setters methods to the Animal class. Use appropriate access modifiers.  
-Step 2. Add 1 instance variable along with it's getter and setter method to the Cat class and to the Dog class.  
-Step 3. Inside the Main class, add the main method.
-Step 4. Create a Cat object and a Dog object. Set all their instance variables and then print their values to the console.   
-Step 5. Add constructors to the Animal, Cat and Dog classes.  
-Step 6. Add, Commit and Push your code to your GitHub repository.  
+Overloading
+Step 1: Add a main method to the Main calss and print Hello to the console  
+Step 2: Create multiple methods named add and multiple methods names subtract for the Calculator class  
+Step 4: Create a Calculator object in the main method and call all add and subtract methods  
+Step 5: Stage, Commit and Push your code
