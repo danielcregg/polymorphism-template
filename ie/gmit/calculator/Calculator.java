@@ -1,4 +1,4 @@
-package ie.gmit.calculator;
+package ie.gmit.overloading;
 
 public class Calculator {
 
