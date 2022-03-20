@@ -1,5 +1,4 @@
-import ie.gmit.animal.*;
-import ie.gmit.twodshapes.*;
+import ie.gmit.calculator.*;
 
 public class Main {
 
