@@ -2,7 +2,7 @@ package ie.gmit.overriding;
 
 public class TwoDShape {
 
-    // Instance Varibales
+    // Instance Variables
     private double width;
     private double height;
 

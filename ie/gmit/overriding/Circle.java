@@ -10,6 +10,7 @@ public class Circle extends TwoDShape {
         setHeight(height);
     }
 
+    @Override
     public double findArea(){
         double radius, area;
         radius = getWidth() / 2;

@@ -10,6 +10,7 @@ public class Triangle extends TwoDShape {
         setHeight(height);
     }
 
+    @Override
     public double findArea() {
         double area;
         area = getWidth()/2 * getHeight();
